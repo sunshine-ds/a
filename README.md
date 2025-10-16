@@ -4,14 +4,21 @@
 a
 
 ## Requirements
-- The app should have a text editor on the left
-- The app should show live markdown preview on the right
-- The preview should update as the user types
+- Repo has MIT license
+- README.md is professional and includes usage instructions
+- Page has three columns labeled 'To Do', 'In Progress', 'Done'
+- Users can add new tasks with a form input and button
+- Tasks can be dragged between columns
+- Tasks can be deleted with a delete button
+- Visual feedback shows during drag operations (e.g., highlight drop zones)
+- Uses HTML5 drag and drop API or equivalent
+- Responsive layout works on mobile and desktop
+- Clean, modern styling with good color scheme
 
 ## Build Pipeline
 
 ## Generated
-2025-10-15T16:37:11.618836+00:00
+2025-10-16T16:09:17.437039+00:00
 
 ## License
 MIT
